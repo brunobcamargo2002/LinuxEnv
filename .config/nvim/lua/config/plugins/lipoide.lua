@@ -1,0 +1,3 @@
+return {
+  'FelipeIzolan/lipoide.nvim',
+}
